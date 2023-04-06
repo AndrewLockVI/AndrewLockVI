@@ -14,3 +14,6 @@ I currently do full stack development with OutSystems, but in my free time enjoy
 - Check out my Linkedin to get in touch!
   -https://www.linkedin.com/in/andrew-laack-238b84240/
  
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewLockVI&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
