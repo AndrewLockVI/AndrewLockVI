@@ -5,7 +5,7 @@ I'm Andrew Laack software developer and student by day and open source afficiand
 I currently do full stack development with OutSystems, but in my free time enjoy programming in Python using Vim and I3-WM (Check out my config https://github.com/AndrewLockVI/I3-And-Vim-Configuration 😄)
 
 ## Things I am passionate about
-
+- C++ ⏩
 - Python :snake:
 - Open source :octocat:
 
