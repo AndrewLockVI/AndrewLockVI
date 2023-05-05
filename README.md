@@ -5,7 +5,7 @@ I'm Andrew Laack software developer and student by day and open source afficiand
 I currently do full stack development with OutSystems, but in my free time I enjoy programming in Python and developing mobile apps using Flutter and Dart.
 
 ## Things I am passionate about
-- Flutter ⏩
+- Flutter 🎯
 - Python :snake:
 - Open source :octocat:
 
