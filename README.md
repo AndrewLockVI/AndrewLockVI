@@ -2,10 +2,10 @@
 ## About me
 
 I'm Andrew Laack software developer and student by day and open source afficiando by different time of day :). 
-I currently do full stack development with OutSystems, but in my free time enjoy programming in Python using Vim and I3-WM (Check out my config https://github.com/AndrewLockVI/I3-And-Vim-Configuration 😄)
+I currently do full stack development with OutSystems, but in my free time I enjoy programming in Python and developing mobile apps using Flutter and Dart.
 
 ## Things I am passionate about
-- C++ ⏩
+- Flutter ⏩
 - Python :snake:
 - Open source :octocat:
 
