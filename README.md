@@ -16,6 +16,3 @@ I currently do full stack development with OutSystems, but in my free time I enj
 - Check out my apps on the Google Play Store!
   -https://play.google.com/store/apps/dev?id=6458464589907808389
  
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewLockVI&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
